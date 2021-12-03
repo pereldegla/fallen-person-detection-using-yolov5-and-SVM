@@ -19,6 +19,7 @@ The goal here is to develop a reliable fall detection system. As it is one of th
 We are not preventing the fall but increasing our reactivity to it. Using person detection and fall classification this approach solves the fall detection problem from end-to-end. The person detection algorithm aims to localize all persons in an image. Its output is the enclosing bounding boxes and the confidence scores that reflect how likely it is that the boxes contain a person. Fall classification estimates if the detected person is in a fall or not. The model is a SVM training on the Fallen Person Dataset (FPDS).
 
 FPDS dataset is public and available at http://agamenon.tsc.uah.es/Investigacion/gram/papers/fall_detection/FPDS_dataset.zip.
+The training process is coming soon on the training branch of the repository.
 
 #### Technologies
 - Yolov3

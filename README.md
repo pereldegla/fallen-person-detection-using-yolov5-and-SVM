@@ -1,4 +1,4 @@
-# Fallen person detection using yolov3 and SVM
+# Fallen person detection using yolov5 and SVM
 SVM-classification approach based on : https://www.mdpi.com/2079-9292/8/9/915/html
 ![image_0008](https://user-images.githubusercontent.com/46407601/144666263-20642623-4a28-41b3-9a12-df1f718f8ee3.jpg)
 
@@ -22,7 +22,7 @@ FPDS dataset is public and available at http://agamenon.tsc.uah.es/Investigacion
 The training process is coming soon on the training branch of the repository.
 
 #### Technologies
-- Yolov3
+- Yolov5
 - Sklearn
 
 ---

@@ -22,7 +22,7 @@ FPDS dataset is public and available at http://agamenon.tsc.uah.es/Investigacion
 The training process is coming soon on the training branch of the repository.
 
 #### Technologies
-- Yolov5
+- Yolov5 (Pytorch)
 - Sklearn
 
 ---

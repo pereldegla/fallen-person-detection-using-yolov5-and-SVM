@@ -4,7 +4,7 @@ SVM-classification approach based on : https://www.mdpi.com/2079-9292/8/9/915/ht
 
 ### Table of contents 
 
--[Description](#description)
--[How To Use](#how-to-use)
--[References](#references)
--[Author Info](#autor-info)
+- [Description](#description)
+- [How To Use](#how-to-use)
+- [References](#references)
+- [Author Info](#autor-info)
